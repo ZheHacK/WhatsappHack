@@ -1,6 +1,6 @@
 # WhatsHack v1.1
 ## Author: https://github.com/thelinuxchoice/whatshack
-## IG: https://www.instagram.com/zhe_pengumbara
+## IG: https://www.instagram.com/zhe_alhaqy
 ### Don't copy this code without give me the credits, nerd! 
 
 Script to generate Android App to Hack All WhatsApp Media Files.
@@ -51,7 +51,7 @@ Go to SDK Manager (Configure -> SDK Manager) and Download:
 Android SDK Build-tools, Android SDK-tools, Android SDK platform-tools, Support Repository
 
 Run script:
-# git clone https://github.com/thelinuxchoice/whatshack
+# git clone https://github.com/ZheHack/whatshack
 # cd whatshack/
 # bash whatshack.sh
 
