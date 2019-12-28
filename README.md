@@ -1,5 +1,4 @@
 # WhatsHack v1.1
-## Author: https://github.com/thelinuxchoice/whatshack
 ## IG: https://www.instagram.com/zhe_alhaqy
 ### Don't copy this code without give me the credits, nerd! 
 
