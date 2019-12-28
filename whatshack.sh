@@ -1,8 +1,8 @@
 #!/bin/bash
 # WhatsHack v1.1
 # Author: @thelinuxchoice (You don't become a coder by just changing the credits)
-# Instagram: @linux_choice
-# Github: https://github.com/thelinuxchoice/whatshack
+# Instagram: @zhe_alhaqy
+# Github: https://github.com/ZheHack/whatshack
 
 host="159.89.214.31" #Serveo.net
 
@@ -44,7 +44,7 @@ printf "  \ \ /\ / /| '_ \ / _\` | __/ __| |_| |/ _\` |/ __| |/ / \n"
 printf "   \ V  V / | | | | (_| | |_\__ \  _  | (_| | (__|   <  \n"
 printf "    \_/\_/  |_| |_|\__,_|\__|___/_| |_|\__,_|\___|_|\_\ v1.1\e[0m\n"
 printf "\n"
-printf "     \e[1;92mAuthor: https://github.com/thelinuxchoice/whatshack\n\e[0m"
+printf "     \e[1;92mAuthor: https://github.com/ZheHack/whatshack\n\e[0m"
 printf "\n"
 }
 
