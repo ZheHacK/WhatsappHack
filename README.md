@@ -1,5 +1,5 @@
 # WhatsHack v1.1
-## IG: https://www.instagram.com/zhe_alhaqy
+### Web: https://www.rojialhaqy.com
 ### Don't copy this code without give me the credits, nerd! 
 
 Script to generate Android App to Hack All WhatsApp Media Files.
