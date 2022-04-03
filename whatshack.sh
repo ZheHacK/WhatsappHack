@@ -1,6 +1,6 @@
 #!/bin/bash
 # WhatsHack v1.1
-# Author: @thelinuxchoice (You don't become a coder by just changing the credits)
+# Author: @cr_federal (You don't become a coder by just changing the credits)
 # Instagram: @m__17__34
 # Github: https://github.com/1mmdfederal/whatshack
 
