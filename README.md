@@ -78,7 +78,7 @@ Run script (as root):
 ```
 ### Donate!
 Support the authors:
-
+PLEASE DONATE I WILL SUPPORT YOU 
 
 
 <noscript><a href="https://liberapay.com/ZheHacK/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript>
