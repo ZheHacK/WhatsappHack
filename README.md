@@ -1,4 +1,4 @@
-# WhatsHack v1.1
+# WhatsHack v1.2
 ### Don't copy this code without give me the credits, nerd! 
 
 Script to generate Android App to Hack All WhatsApp Media Files.
